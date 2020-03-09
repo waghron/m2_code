@@ -5,3 +5,4 @@ ComponentRegistrar::register(ComponentRegistrar::MODULE,
     'Waghron_Base',
     __DIR__
 );
+
