@@ -259,10 +259,12 @@ return [
         'Klarna_Kp' => 1,
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
+        'Magestudy_Crud' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
         'Waghron_Base' => 1,
+        'Waghron_Collections' => 1,
         'Waghron_IsometricGrid' => 1,
         'Yotpo_Yotpo' => 1
     ]

@@ -3,7 +3,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Waghron_Base::waghron" title="Banner Slider" sortOrder="10"/>
+                <resource id="Waghron_Base::waghron" title="Waghron" sortOrder="10"/>
             </resource>
         </resources>
     </acl>

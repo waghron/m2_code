@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Waghron_Collections::collections" title="Collections" module="Waghron_Collections" sortOrder="10" resource="Waghron_Collections::collections" parent="Waghron_Base::waghron"/>
+        <add id="Waghron_Collections::collections_pages" title="Pages" module="Waghron_Collections" sortOrder="10" parent="Waghron_Collections::collections" action="collectionsadmin/page" resource="Waghron_Collections::collections_pages"/>
+        <add id="Waghron_Collections::collections_text_block" title="Manage Text Blocks" module="Waghron_Collections" sortOrder="10" parent="Waghron_Collections::collections" action="collectionsadmin/slide" resource="Waghron_Collections::collections_slides"/>
+    </menu>
+</config>
